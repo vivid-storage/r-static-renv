@@ -1,0 +1,7 @@
+.Rproj.user/
+.Rhistory
+renv/library/
+renv/staging/
+*.html
+*_files/
+.quarto/
