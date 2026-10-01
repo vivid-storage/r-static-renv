@@ -1,0 +1,11 @@
+---
+title: "renv.lock Quarto"
+format: html
+---
+
+```{r}
+library(glue)
+name <- "renv.lock"
+```
+
+`r glue("Rendered from {name} with glue {packageVersion('glue')}")`
